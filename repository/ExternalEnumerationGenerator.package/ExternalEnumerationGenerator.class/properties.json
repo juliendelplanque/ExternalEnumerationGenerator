@@ -1,0 +1,16 @@
+{
+	"category" : "ExternalEnumerationGenerator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"enumerationString",
+		"targetClassName",
+		"packageName" ],
+	"name" : "ExternalEnumerationGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
